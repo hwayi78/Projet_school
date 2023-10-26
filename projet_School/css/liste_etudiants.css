@@ -1,0 +1,56 @@
+nav{
+    background-color: aqua;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    left: 0;
+}
+
+
+
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+h2{
+    color: red; 
+    text-align: center;
+    text-decoration: underline;
+}
+
+#site-search{
+    width: 100%;
+}
+
+
+.container-fluid{
+   
+    background-color: rgba(255, 255, 128, .5);
+    min-height: 100vh;
+
+}
+
+
+
+table{
+    border: 2px solid black;
+    background-color: white;
+    width: 100%;
+    
+}
+td{
+    height: 50px;
+    padding: 5px;
+}
+
+.img_list{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}

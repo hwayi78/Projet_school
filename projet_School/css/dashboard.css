@@ -1,0 +1,46 @@
+/* background */
+.container-fluid{
+   
+    background-color: rgba(255, 255, 128, .5);
+    min-height: 100vh;
+
+}
+
+/* Navbar */
+nav{
+    background-color: aqua;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    left: 0;
+}
+
+/* Image session */
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+
+/* Comptage des eleves */
+.count_CM{
+    width: 250px;
+    height: 100px;
+    border: 2px solid black;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    background-color: aquamarine;  
+}
+
+.count_eleves2{
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin: 15px;
+    background-color: beige;
+}
