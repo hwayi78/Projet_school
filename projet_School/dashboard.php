@@ -103,7 +103,7 @@ session_start();
         <div class="row">
             <div class="col-2"></div>
             <div class="col py-3 px-5 mx-5 my-5">
-                <h5>Calendrier d'evenements</h5>
+                <h5>Calendrier d'evenements locaux</h5>
             </div>
         </div>
         
